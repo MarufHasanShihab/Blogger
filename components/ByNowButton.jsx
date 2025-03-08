@@ -2,7 +2,7 @@ import React from "react";
 
 const BuyNowButton = ({ product }) => {
   const handleBuyNow = () => {
-    const adminPhone = "+8801724387454"; // আপনার এডমিনের WhatsApp নম্বর (দেশ কোড সহ)
+    const adminPhone = "+8801772097901"; // আপনার এডমিনের WhatsApp নম্বর (দেশ কোড সহ)
 
     // প্রোডাক্টের তথ্য সংগ্রহ করুন
     const productName = product.name;
