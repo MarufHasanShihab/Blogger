@@ -189,7 +189,7 @@ export const assets = {
         date:Date.now(),
         category:"Technology",
         author:"Alex Bennett",
-        author_img:profile_icon
+        author_img: profile_icon
     },
     {
         id:16,
